@@ -1,5 +1,5 @@
 # Exemplo que causa TypeError
-nome = "Lucas"
+nome = "Lucas MIRANDA VILELA SANTOS"
 
 try:
     resultado = len(nome)
